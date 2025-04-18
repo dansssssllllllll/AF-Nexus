@@ -1,16 +1,16 @@
 export default {
-  "botName": "Nexus",
-  "prefix": ".",
-  "nickname": "Nexusbot",
+  "botName": "AUTOBOT",
+  "prefix": "/",
+  "nickname": "AUTOBOT=[/]",
   "adminIds": [
-    "100062160914296",
+    "61554405703021",
     "61557780285734",
     "100075528791428",
     "61571509256532"
   ],
   "facebookAccount": {
-    "email": "bultelakku@gufum.com",
-    "password": "asta@0123"
+    "email": "ssobbot16@gmail.com",
+    "password": "@daniel"
   },
   "logging": {
     "messageObjects": true
