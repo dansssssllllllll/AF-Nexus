@@ -11,24 +11,21 @@ category: ' info',
   Nexus: async ({ nexusMessage }) => {
     const botInfo = `
 ╭━━━━━━━━━╮
-┃  𝙽𝙴𝚇𝚄𝚂 𝙱𝙾𝚃 𝙸𝙽𝙵𝙾  
+┃  AUTOBOT 𝙱𝙾𝚃 𝙸𝙽𝙵𝙾  
 ┃━━━━━━━━━━
-┃ 🤖 Bot Name: Nexus
+┃ 🤖 Bot Name: NULL
 ┃ 🌟 Version: 1.0.0
-┃ 🔧 Prefix: .
+┃ 🔧 Prefix: /
 ┃
 ┃ 👑 𝙾𝚆𝙽𝙴𝚁𝚂:
-┃ • Frank (EfkidTrapGamer)
-┃   └╼ https://www.facebook.com/Efkidtrapgamer
-┃ • Asta (Femi)
-┃   └╼ https://www.facebook.com/femi.gbemi.58
+┃ • Daniel
+┃   └╼ https://www.facebook.com/61554405703021
 ┃
 ┃ 📚 𝚁𝙴𝚂𝙾𝚄𝚁𝙲𝙴𝚂:
-┃ • GitHub: https://github.com
 ┃ • Commands: Use help cmd
 ┃
 ┃ 💝 Thanks for using
-┃   Nexus Bot!
+┃   my Bot!
 ╰━━━━━━━━━╯`.trim()
     return nexusMessage.reply(botInfo);
   }
