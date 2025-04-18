@@ -22,16 +22,14 @@ category: 'info',
     const botInfo = `
 ╭━━〘 📊𝚂𝚈𝚂𝚃𝙴𝙼 𝙸𝙽𝙵𝙾 〙━╮
 ┃
-┃ 🤖 Bot Name: Nexus
+┃ 🤖 Bot Name: AUTOBOT
 ┃ 👾 Bot ID: ${botID}
 ┃ ⚡ Prefix: ${global.prefix}
 ┃ 📡 Platform: NodeJS
 ┃
 ┃ 👑 𝙾𝚆𝙽𝙴𝚁𝚂:
 ┃ • Frank (EfkidTrapGamer)
-┃   └╼ https://www.facebook.com/Efkidtrapgamer
-┃ • Asta (Seyi)
-┃   └╼ https://www.facebook.com/femi.gbemi.58
+┃   └╼ https://www.facebook.com/61554405703021
 ┃
 ┃ ⌚ 𝚄𝙿𝚃𝙸𝙼𝙴:
 ┃ • ${hours}h ${minutes}m ${seconds}s
