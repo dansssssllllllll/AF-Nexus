@@ -20,7 +20,7 @@ export default {
 ┃
 ┃ ⏰ ${d}d ${this.formatTime(h)}h ${this.formatTime(m)}m ${this.formatTime(s)}s
 ┃
-╰━━ＮＥＸＵＳ ＢＯＴ━━╯`;
+╰━━AUTOBOTSYSTEM━━╯`;
 
     return nexusMessage.reply(msg);
   }
